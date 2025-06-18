@@ -17,7 +17,6 @@
   ],
   "type": "module",
   "author": "Frank Fiegel <frank@glama.ai>",
-  "license": "MIT",
   "description": "A TypeScript framework for building MCP servers.",
   "module": "dist/FastMCP.js",
   "types": "dist/FastMCP.d.ts",
